@@ -1,33 +1,33 @@
-"# Uploaded Material Processing
+#上传材料处理
 
-## Source priority
+##来源优先级
 
-Read all supplied files before drafting. Support product briefs, existing scripts, product-detail screenshots, Word/PDF documents, spreadsheets, plain text, and pasted links when the environment can access them.
+在起草之前，请阅读所有提供的文件。支持产品简介、现有脚本、产品细节截图、Word/PDF文档、电子表格、纯文本和在环境可以访问时粘贴的链接。
 
-Use this evidence priority when sources conflict:
+在来源冲突时使用此证据优先级：
 
-1. Current campaign setup or signed service terms
-2. Current official product specification and packaging
-3. Test report, certificate, or manufacturer documentation
-4. User-provided brief
-5. Existing script or promotional copy
+1. 当前活动设置或签署的服务条款
+2. 当前官方产品规格和包装
+3. 测试报告、证书或生产厂家文件
+4. 用户提供的简介
+5. 现有脚本或促销文案
 
-Do not treat promotional copy as proof of its own claims.
+不得将促销文案视为其自身主张的证明。
 
-## Extraction procedure
+##提取程序
 
-1. Assign each source an ID such as `S1`, `S2`, and record its filename or title.
-2. Extract product identity, specifications, variants, audience, use cases, price, campaign rules, logistics, returns, warranty, demonstrations, and prohibited wording.
-3. Record exact units and qualifiers. Preserve `up to`, test conditions, model numbers, dates, and regional limits.
-4. Deduplicate equivalent claims without merging incompatible values.
-5. Build a conflict list for different prices, materials, capacities, service periods, or variant rules.
-6. Mark unreadable image regions and missing pages instead of guessing.
+1. 为每个来源分配一个ID，例如`S1`、`S2`，并记录其文件名或标题。
+2. 提取产品身份、规格、变体、受众、使用案例、价格、活动规则、物流、退货、保修、演示和禁用措辞。
+3. 记录确切单位和限定词。保留`高达`、测试条件、型号、日期及地区限制。
+4. 去除重复的等价主张，而不合并不兼容的值。
+5. 为不同的价格、材料、容量、服务周期或变体规则建立冲突列表。
+6. 标记无法阅读的图片区域和缺失的页面，而不是猜测。
 
-## Fixed upload summary
+##固定上传摘要
 
 Before the script, produce this compact block when files were uploaded:
 
-```markdown
+```markdown"
 ## 资料提取摘要
 - 已读取：S1《文件名》；S2《文件名》
 - 商品：……

@@ -1,0 +1,4 @@
+interface:
+  display_name: "直播话术编排器"
+  short_description: "从上传商品资料提取事实并生成合规的 5/7 分钟直播协同话术"
+  default_prompt: "Use $livestream-script-builder to extract facts from my uploaded materials and enrich them into a compliant 5-minute livestream script."

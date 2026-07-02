@@ -1,4 +1,4 @@
-"#直播脚本生成器
+# Livestream Script Builder
 
 一个面向 Codex / Agent 的中文直播话术 Skill。上传商品资料、现有话术、Word、PDF、表格或图片，即可提取事实并生成带时间轴的 5 分钟或 7 分钟“主播＋中控”协同话术。
 

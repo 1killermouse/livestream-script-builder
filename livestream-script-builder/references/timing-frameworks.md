@@ -1,24 +1,24 @@
-#计时框架
+# Timing Frameworks
 
-##5分钟循环
+## 5-minute loop
 
-"|时间|段落|工作|"
-"|---|---|---|"
-"| 00:00–00:20 | 热烈开场 | 告诉我们产品、目标受众以及留下的理由 |"
-"| 00:20–00:55 | 互动 | 提出一个有用的偏好或痛点问题 |"
-"| 00:55–02:20 | 产品证明 | 解释 2–3 个经验证的好处及演示 |"
-"| 02:20–03:00 | 变体指导 | 解释颜色、尺寸、型号或使用案例选择 |"
-"| 03:00–03:40 | 提供说明 | 说明实际价格机制和价值比较 |"
-"| 03:40–04:10 | 服务条款 | 状态运输、退货、保修和限制 |"
-| 04:10–04:45 | 购买窗口 | 给出明确的链接/行动提示并回顾要点 |
-“| 04:45–05:00 | 关闭并返回 | 确认下一个主题或过渡到下一个循环 |”
+| Time | Segment | Job |
+|---|---|---|
+| 00:00–00:20 | Warm open | Name the product, audience, and reason to stay |
+| 00:20–00:55 | Interaction | Ask one useful preference or pain-point question |
+| 00:55–02:20 | Product proof | Explain 2–3 verified benefits with demonstrations |
+| 02:20–03:00 | Variant guidance | Explain color, size, model, or use-case selection |
+| 03:00–03:40 | Offer explanation | State actual price mechanism and value comparison |
+| 03:40–04:10 | Service terms | State shipping, returns, warranty, and limitations |
+| 04:10–04:45 | Purchase window | Give a clear link/action cue and recap essentials |
+| 04:45–05:00 | Close and return | Confirm next topic or transition into the next loop |
 
 Use this version for a focused product, a cold start, or a fast return loop. If no variants exist, move that time into proof or objections.
 
-"##7分钟循环"
+## 7-minute loop
 
-"|时间|段落|工作|"
-"|---|---|---|"
+| Time | Segment | Job |
+|---|---|---|
 | 00:00–00:30 | Warm open | Position the product and session goal |
 | 00:30–01:15 | Audience discovery | Surface a real need or preference |
 | 01:15–03:05 | Product proof | Explain and demonstrate core benefits |

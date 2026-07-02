@@ -1,4 +1,4 @@
-# Livestream Script Builder
+"#直播脚本生成器
 
 一个面向 Codex / Agent 的中文直播话术 Skill。上传商品资料、现有话术、Word、PDF、表格或图片，即可提取事实并生成带时间轴的 5 分钟或 7 分钟“主播＋中控”协同话术。
 
@@ -35,20 +35,20 @@ cp -R livestream-script-builder "${CODEX_HOME:-$HOME/.codex}/skills/"
 - 在不改变真实信息的前提下丰富现有话术；
 - 固定输出资料摘要、直播设定、时间轴、中控清单、备用分支、返场、核对卡和事实核验表。
 
-##目录
+## 目录
 
 ```text
 livestream-script-builder/
 ├── SKILL.md
 ├── agents/openai.yaml
 └── references/
-├── intake.md
-├── module-library.md
-├── output-template.md
-├── timing-frameworks.md
-└── upload-processing.md
+    ├── intake.md
+    ├── module-library.md
+    ├── output-template.md
+    ├── timing-frameworks.md
+    └── upload-processing.md
 ```
 
-##设计说明
+## 设计说明
 
 本仓库复用的是话术结构和工作流，不收录来源文档的逐字稿。生成内容仍需由使用者根据商品证据、平台规则和适用法律复核后再播出。
